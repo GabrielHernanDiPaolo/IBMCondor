@@ -1,0 +1,44 @@
+# 🧠 Una arquitectura agente inspirada en el cerebro para mejorar la planificación con LLMs
+
+## 📌 Origen
+- **Autora:** Ida Momennejad  
+- **Institución:** Microsoft Research, Nueva York  
+- **Fuente:** Serie de Microsoft Research Videos  
+- **Año:** 2025  
+
+## 🎯 Tema
+Arquitectura modular inspirada en el cerebro (MAP: *Modular Agentic Planner*) para mejorar el razonamiento y la planificación en múltiples pasos con LLMs.
+
+## ⚙️ Eje de Integración
+Este trabajo se incorpora al repositorio **IBM Condor** como referencia para:
+- **Computación cuántica híbrida** (clásico + cuántico).  
+- **Arquitecturas multiagente** inspiradas en procesos cerebrales.  
+- **Mitigación de alucinaciones y errores en IA generativa.**
+
+## 🧩 Descripción del MAP
+MAP distribuye funciones en módulos especializados:
+- **Actor:** propone acciones.  
+- **Monitor:** valida y bloquea alucinaciones.  
+- **Predictor:** proyecta futuros posibles.  
+- **Evaluador:** estima la calidad de resultados.  
+- **Orquestador:** coordina y determina el logro de objetivos.  
+
+## 📊 Comparativa: MAP vs Computación Cuántica
+
+| Concepto MAP (IA inspirada en cerebro) | Analogía en Computación Cuántica |
+|----------------------------------------|----------------------------------|
+| Modularidad de roles (Actor, Monitor, etc.) | Paralelismo de qubits y puertas cuánticas |
+| Monitorización de errores/alucinaciones | Corrección de errores cuánticos |
+| Predicción de estados futuros | Evolución de estados cuánticos en superposición |
+| Evaluación iterativa de resultados | Medición y colapso de estados |
+| Coordinación por Orquestador | Control de flujo en algoritmos híbridos |
+
+## 🚀 Aplicaciones
+- **Planificación multi‑paso:** viajes, proyectos, cumplimiento normativo.  
+- **Reducción de alucinaciones:** 0% movimientos inválidos en pruebas fuera de distribución.  
+- **Transferencia entre tareas:** rendimiento superior incluso con modelos más pequeños (ej. Llama 70B).  
+- **Arquitecturas híbridas:** inspiración para integrar IA clásica y computación cuántica.  
+
+
+## 🌐 Implicaciones
+Este trabajo ofrece un plan para avanzar hacia arquitecturas de extremo a extremo más allá de los transformadores, incorporando cálculos multinivel y multirol. Su integración en IBM Condor abre la puerta a explorar **sinergias entre IA inspirada en el cerebro y computación cuántica**.
