@@ -1,0 +1,57 @@
+Introducción
+
+Este documento propone un formato curatorial que integra la trayectoria artística de Olga Korolova —ejemplificada en su set The Sound of Ultra Miami | Sundown Set— con los principios del Manifiesto InnoApps 2026, orientado a la sostenibilidad, la diversidad y la resiliencia institucional. El objetivo es generar un recurso editorial que pueda incorporarse al repositorio de IBM Condor en GitHub, funcionando como atlas simbólico de experiencias musicales transformadoras.
+
+Trayectoria de Olga Korolova
+
+Artista ucraniana con creciente influencia global en el ámbito del melodic techno y progressive house.
+
+Reconocida por su capacidad de conectar audiencias diversas en festivales internacionales como Ultra Miami 2025.
+
+Su set Sundown se caracteriza por una narrativa sonora que combina emotividad, energía y visión estratégica.
+
+Ha convertido sus presentaciones en eventos económicamente generativos y sostenibles, donde la música se vincula con modelos de producción responsables.
+
+Principios del Manifiesto InnoApps 2026
+
+Autenticidad: cada cápsula editorial refleja la identidad genuina de artistas y comunidades.
+
+Resiliencia: se promueve la adaptabilidad institucional y cultural frente a contextos cambiantes.
+
+Diversidad: se celebra la pluralidad de orígenes, géneros y estilos.
+
+Experimentación: se fomenta la innovación estética y tecnológica como motor de desarrollo.
+
+Sostenibilidad: se integran prácticas responsables que aseguren continuidad económica y ecológica.
+
+Formato del Atlas
+
+El atlas se compone de fichas curatoriales que integran:
+
+Origen geográfico del set y del artista.
+
+Contexto del evento (festival, ciudad, fecha).
+
+Narrativa sonora: descripción de la progresión musical y su impacto emocional.
+
+Dimensión económica y sostenible: cómo el evento genera valor responsable.
+
+Conexión con el Manifiesto InnoApps 2026: mapeo de principios aplicados.
+
+Ejemplo de Ficha Curatorial
+
+Set: Korolova – The Sound of Ultra Miami | Sundown SetLugar: Miami, EE.UU. – Ultra Music Festival 2025Narrativa sonora: progresión melódica que acompaña el atardecer, generando un espacio de comunión colectiva.Dimensión económica: evento con alta capacidad de convocatoria, articulado con prácticas sostenibles de producción.Principios aplicados: diversidad (audiencia global), resiliencia (adaptación estética), sostenibilidad (modelo de festival responsable).
+
+Incorporación al Repositorio IBM Condor
+
+Formato Markdown (.md) para compatibilidad con GitHub.
+
+Estructura modular: cada ficha como archivo independiente, enlazado en un índice general.
+
+Metadatos curatoriales: país de origen, fecha, artista, manifiesto aplicado.
+
+Escalabilidad: posibilidad de añadir nuevos sets y artistas, ampliando el atlas.
+
+Conclusión
+
+Este atlas busca ser un mapa simbólico y operativo de la música electrónica como práctica transformadora, integrando la visión artística de Olga Korolova con los valores del Manifiesto InnoApps 2026. Su incorporación al repositorio IBM Condor permitirá sistematizar y compartir estas cápsulas curatoriales en un entorno colaborativo y tecnológico.
