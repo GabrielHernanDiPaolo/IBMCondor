@@ -1,0 +1,19 @@
+1. El Problema: El "Punto Ciego" del Hardware La Atestación Remota nos dice que el hardware es legítimo, pero no nos dice qué está haciendo el software realmente. Es una "caja negra" certificada.
+
+2. El Dúo Dinámico (The Solution)
+
+Componente A: TEE (Hardware Layer): Proporciona aislamiento físico y criptográfico. Garantiza que nadie (ni el ISP, ni el admin de la nube) pueda leer la RAM.
+
+Componente B: Reproducible Builds (Software Layer): Proporciona transparencia. Permite que cualquier auditor externo genere el mismo hash binario a partir del código fuente.
+
+3. El Flujo de Verificación en IBM Condor
+
+Build: Se utiliza npx pkg y entornos como Nix para asegurar que el binario sea idéntico en cualquier máquina.
+
+Deploy: El binario se carga en el Enclave.
+
+Attestation: El Enclave genera un reporte firmado con el hash del binario.
+
+Audit: El cliente compara el hash del reporte con el hash que él mismo obtuvo al compilar el código fuente. Si coinciden, la confianza es total.
+
+Nota Técnica: En proyectos como Majorana1, este flujo es lo que permite que una red de nodos pueda confiar en un "Oráculo" o en un "KMS" sin necesidad de gobernanza humana constante.
