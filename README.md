@@ -164,3 +164,18 @@ Antes de reutilizar textos, imágenes, música o videos, verifica la licencia co
 IBM Condor propone una forma de maduración institucional basada menos en la acumulación de respuestas definitivas que en la calidad de las preguntas, la disciplina de las evidencias y la responsabilidad de los diálogos.
 
 La constelación InnoApps puede crecer si cada nueva conexión —entre una librería y una nube, una playlist y una política cultural, un agente y una auditoría, un laboratorio cuántico y una comunidad— queda documentada de manera comprensible, verificable y abierta a revisión.
+
+## Licencia
+
+La documentación y los materiales conceptuales originales de IBM Condor se ofrecen bajo la licencia
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
+
+Consulta también la [guía sobre licencia y uso de materiales](docs/licencia-y-materiales.md)
+para conocer el alcance de la licencia y el tratamiento de materiales de terceros.
+
+La atribución sugerida es:
+
+> IBM Condor — InnoApps Librería, bajo licencia CC BY 4.0.  
+> https://creativecommons.org/licenses/by/4.0/
+
+La licencia no aplica automáticamente a imágenes, música, videos, marcas, enlaces externos, documentos de terceros o materiales con licencia específica.
