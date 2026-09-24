@@ -22,6 +22,11 @@ IBM Condor busca:
 - construir un lenguaje común para conversaciones entre instituciones, desarrolladores, artistas, investigadores y comunidades;
 - distinguir con claridad entre hechos documentados, interpretaciones, propuestas y asuntos pendientes de validación.
 
+## Perfiles institucionales
+
+- [Perfil de Gabriel Hernán Di Paolo en LinkedIn](https://www.linkedin.com/in/gabriel-hernan-di-paolo-2005441aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_event%3BJFExNTK4TQS%2BGdGSqqel3g%3D%3D)
+- [InnoApps Librería en LinkedIn](https://www.linkedin.com/company/innoappslibreria/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BctOhnRtSRxqFl%2BSMyG15Gw%3D%3D)
+
 ## Una constelación, no una promesa única
 
 La propuesta integra varias líneas de trabajo relacionadas, pero no necesariamente implementadas en el mismo nivel de madurez:
